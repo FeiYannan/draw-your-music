@@ -3,7 +3,7 @@
 """
 Created on Wed May 13 17:15:07 2020
 
-@author: sophia
+@author: Sophia & Molly
 """
 
 from __future__ import print_function
